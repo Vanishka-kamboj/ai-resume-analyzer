@@ -146,6 +146,7 @@ The application also identifies skills required by the Job Description that are 
                     ┌──────────────────────┐
                     │    Result Dashboard  │
                     └──────────────────────┘
+```
 # 👩‍💻 Developer
 
 **Vanishka Kamboj**
