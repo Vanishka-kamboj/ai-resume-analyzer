@@ -145,9 +145,13 @@ The application also identifies skills required by the Job Description that are 
                                ▼
                     ┌──────────────────────┐
                     │    Result Dashboard  │
-                    └──────────────────────┘hka-kamboj](https://github.com/Vanishka-kamboj)
+                    └──────────────────────┘
+# 👩‍💻 Developer
 
-LinkedIn:[ https://linkedin.com/in/your-linkedin-url](https://www.linkedin.com/in/vanishka-kamboj/)
+**Vanishka Kamboj**
+
+- GitHub: [Vanishka-kamboj](https://github.com/Vanishka-kamboj)
+- LinkedIn: [Vanishka Kamboj](https://www.linkedin.com/in/vanishka-kamboj/)
 
 ---
 
