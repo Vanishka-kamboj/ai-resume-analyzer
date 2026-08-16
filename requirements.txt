@@ -4,3 +4,6 @@ pdfplumber
 python-docx
 scikit-learn
 python-dotenv
+Flask-SQLAlchemy
+psycopg2-binary
+SQLAlchemy
